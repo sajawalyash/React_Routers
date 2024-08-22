@@ -1,0 +1,73 @@
+.NavLinks{
+
+   margin-right: 43px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: 600;
+   
+   
+}
+
+.NavBar-links{
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+.NavBar-links:hover{
+    color: rgb(221, 222, 221);
+    text-decoration: underline;
+    
+}
+
+.form-setting{
+    padding: 30px;
+}
+
+.heading-form{
+    text-align: center;
+    font-size: 39px;
+    margin-top: 10px;
+    margin-bottom: 22px;
+}
+
+.strong-phone{
+    margin-bottom: 70px;
+}
+.footer-image{
+    background-size: cover;
+    height: 781px;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.title-header{
+    text-align: center;
+    padding-top: 160px;
+}
+
+.para-title{
+    text-align: center;
+}
+
+.section-2{
+    margin-top: 20px;
+}
+
+.group-images{
+    border-radius: 9px;
+    padding: 20px;
+}
+
+.group-images-1{
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+}
+.group-images-2{
+    border-radius: 10px;
+}
+
+.card-footer{
+    background-color: navajowhite;
+    padding-right: 20px;
+}
